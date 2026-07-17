@@ -1,7 +1,7 @@
 # Comprehensive Cyber Reconnaissance and Threat Intelligence Audit on Mozilla Corporation
 
 ## 📌 Project Overview
-This repository contains the complete portfolio and technical artifacts for the Capstone Project completed during the Open Source Intelligence (OSINT) Internship Program at **DevShieldX**. The objective of this project was to perform a non-destructive, passive, and defensive security audit on **Mozilla Corporation (mozilla.org)** to map out its global infrastructure, technical assets, and potential external exposure[cite: 1].
+This repository contains the complete portfolio and technical artifacts for the Capstone Project completed during the Open Source Intelligence (OSINT) Internship Program at **DevShieldX**. The objective of this project was to perform a non-destructive, passive, and defensive security audit on **Mozilla Corporation (mozilla.org)** to map out its global infrastructure, technical assets, and potential external exposure.
 
 * **Submitted By:** Malaika Tariq
 * **Intern ID:** DSX-CYB-67
