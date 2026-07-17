@@ -1,0 +1,17 @@
+# Extracted Active Subdomain Targets for mozilla.org
+# Source: DNS Registry Scraping & Passive Infrastructure Discovery
+
+incoming.telemetry.mozilla.org
+missioncontrol.telemetry.mozilla.org
+ldap.mozilla.org
+passwordreset.mozilla.org
+dictionary.telemetry.mozilla.org
+developer.mozilla.org
+support.mozilla.org
+blog.mozilla.org
+www-archive.mozilla.org
+addons.mozilla.org
+nightly.maven.mozilla.org
+connect.mozilla.org
+builders.mozilla.org
+stateof.mozilla.org
