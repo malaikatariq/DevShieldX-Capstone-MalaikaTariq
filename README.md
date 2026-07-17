@@ -15,7 +15,7 @@ This repository contains the complete portfolio and technical artifacts for the 
 * 📄 **README.md** - Main documentation dashboard (This file).
 * 📄 **Report.pdf** - Full compiled professional PDF report[cite: 1].
 * 📂 **Evidence/** - Extracted structural lists, subdomains, and harvested data logs[cite: 1].
-* 📂 **Screenshots/** - Visual proof of tool dashboards, Shodan lookups, and Google Dorks[cite: 1].
+* 📂 **[Screenshots/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Screenshots)** - Visual proof of tool dashboards, Shodan lookups, and Google Dorks.
 * 📂 **Tools/** - Complete reference index of OSINT utilities utilized during audit[cite: 1].
 * 📂 **Scripts/** - Practical query command strings and search logic frameworks[cite: 1].
 * 📂 **Resources/** - Standard knowledge references, internet routing archives, and data registries[cite: 1].
