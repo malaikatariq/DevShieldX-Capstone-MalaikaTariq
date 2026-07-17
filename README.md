@@ -13,7 +13,7 @@ This repository contains the complete portfolio and technical artifacts for the 
 ## 📂 Repository Layout & Structure
 
 * 📄 **README.md** - Main documentation dashboard (This file).
-* 📄 **Report.pdf** - Full compiled professional PDF report.
+* 📄 **[Report.pdf](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/blob/main/Report.zip)** - Full compiled professional PDF report.
 * 📂 **[Evidence/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Evidence)** - Extracted structural lists, subdomains, and harvested data logs.
 * 📂 **[Screenshots/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Screenshots)** - Visual proof of tool dashboards, Shodan lookups, and Google Dorks.
 * 📂 **[Tools/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Tools)** - Complete reference index of OSINT utilities utilized during audit.
