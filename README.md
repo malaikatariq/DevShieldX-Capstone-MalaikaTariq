@@ -17,7 +17,7 @@ This repository contains the complete portfolio and technical artifacts for the 
 * 📂 **[Evidence/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Evidence)** - Extracted structural lists, subdomains, and harvested data logs.
 * 📂 **[Screenshots/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Screenshots)** - Visual proof of tool dashboards, Shodan lookups, and Google Dorks.
 * 📂 **[Tools/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Tools)** - Complete reference index of OSINT utilities utilized during audit.
-* 📂 **[Scripts/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Scripts0** - Practical query command strings and search logic frameworks.
+* 📂 **[Scripts/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Scripts0)** - Practical query command strings and search logic frameworks.
 * 📂 **[Resources/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Resources)** - Standard knowledge references, internet routing archives, and data registries.
 
 ---
