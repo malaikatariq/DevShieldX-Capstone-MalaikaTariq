@@ -13,12 +13,12 @@ This repository contains the complete portfolio and technical artifacts for the 
 ## 📂 Repository Layout & Structure
 
 * 📄 **README.md** - Main documentation dashboard (This file).
-* 📄 **Report.pdf** - Full compiled professional PDF report[cite: 1].
-* 📂 **Evidence/** - Extracted structural lists, subdomains, and harvested data logs[cite: 1].
+* 📄 **Report.pdf** - Full compiled professional PDF report.
+* 📂 **[Evidence/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Evidence)** - Extracted structural lists, subdomains, and harvested data logs.
 * 📂 **[Screenshots/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Screenshots)** - Visual proof of tool dashboards, Shodan lookups, and Google Dorks.
-* 📂 **Tools/** - Complete reference index of OSINT utilities utilized during audit[cite: 1].
-* 📂 **Scripts/** - Practical query command strings and search logic frameworks[cite: 1].
-* 📂 **Resources/** - Standard knowledge references, internet routing archives, and data registries[cite: 1].
+* 📂 **[Tools/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Tools)** - Complete reference index of OSINT utilities utilized during audit.
+* 📂 **Scripts/** - Practical query command strings and search logic frameworks.
+* 📂 **[Resources/](https://github.com/malaikatariq/DevShieldX-Capstone-MalaikaTariq/tree/main/Resources)** - Standard knowledge references, internet routing archives, and data registries.
 
 ---
 
@@ -31,8 +31,8 @@ This repository contains the complete portfolio and technical artifacts for the 
 ---
 
 ## 🛡️ Top Recommended Remediations
-1. **Enforce Global Anti-Indexing:** Use explicit `robots.txt` directives and the `X-Robots-Tag: noindex` response header to mask old technical document paths and development threads[cite: 1].
-2. **Obfuscate Corporate Communication Paths:** Hide plain-text corporate addresses behind web contact forms secured by advanced automated CAPTCHA services[cite: 1].
+1. **Enforce Global Anti-Indexing:** Use explicit `robots.txt` directives and the `X-Robots-Tag: noindex` response header to mask old technical document paths and development threads.
+2. **Obfuscate Corporate Communication Paths:** Hide plain-text corporate addresses behind web contact forms secured by advanced automated CAPTCHA services.
 3. **Gateway Protection on Port 8443:** Restrict all alternative port administrative portals behind an enterprise Zero Trust Network Access (ZTNA) or enterprise VPN tunnel integrated with multi-factor authentication (MFA).
 
 ---
